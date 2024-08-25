@@ -1,0 +1,14 @@
+# This is a short introduction to pandas, geared mainly for new users.
+# Customarily, we import as follows:
+
+In [1]: import numpy as np
+
+In [2]: import pandas as pd
+
+# Basic data structures in pandas
+
+Pandas provides two types of classes for handling data:
+
+Series: a one-dimensional labeled array holding data of any type
+such as integers, strings, Python objects etc.
+DataFrame: a two-dimensional data structure that holds data like a two-dimension array or a table with rows and columns.
